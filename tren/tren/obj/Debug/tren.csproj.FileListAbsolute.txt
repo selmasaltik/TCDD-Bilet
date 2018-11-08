@@ -1,0 +1,23 @@
+c:\users\eraslan ahmet\documents\visual studio 2013\Projects\tren\tren\bin\Debug\tren.exe.config
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.Form1.resources
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\ERASLAN AHMET\documents\visual studio 2013\Projects\tren\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\Hasan\Desktop\tren\tren\bin\Debug\tren.exe.config
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.Form1.resources
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.csproj.GenerateResource.Cache
+C:\Users\Hasan\Desktop\tren\tren\bin\Debug\tren.exe
+C:\Users\Hasan\Desktop\tren\tren\bin\Debug\tren.pdb
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.exe
+C:\Users\Hasan\Desktop\tren\tren\obj\Debug\tren.pdb
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\bin\Debug\tren.exe.config
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\obj\Debug\tren.exe
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\obj\Debug\tren.pdb
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\bin\Debug\tren.exe
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\bin\Debug\tren.pdb
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\obj\Debug\tren.csprojResolveAssemblyReference.cache
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\obj\Debug\tren.Form1.resources
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\obj\Debug\tren.Properties.Resources.resources
+C:\Users\SELMA SALTIK\Desktop\Yzm Muh. ll.Sınıf\Nesneye Dayalı Programlama\tren\tren\tren\obj\Debug\tren.csproj.GenerateResource.Cache
